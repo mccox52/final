@@ -1,0 +1,106 @@
+.jumbo1 {
+    background: url('../images/jumbo1.jpg') no-repeat;
+    height: 550px;
+    text-shadow: 2px 2px black;
+    margin-bottom: 0px;
+    margin-top: 0px !important;
+}
+
+.jumbo1-btn {
+    text-shadow: none;
+    background: #d6d0d0;
+}
+
+.description {
+    position: absolute;
+    z-index: 3;
+    top: 20%;
+    left: 50%;
+}
+
+
+.cf1 {
+    font-family: 'Julius Sans One', sans-serif;
+    position: absolute;
+    z-index: 3;
+    top: 15%;
+    left: 10%;
+}
+.cf2 {
+    font-family: 'Julius Sans One', sans-serif;
+    position: absolute;
+    z-index: 3;
+    top: 70%;
+    left: 35%;
+}
+
+.cf3 {
+    font-family: 'Julius Sans One', sans-serif;
+    position: absolute;
+    z-index: 3;
+    top: 20.5%;
+    left: 10%;
+}
+
+.homejumbo1 {
+    font-family: 'Julius Sans One', sans-serif;
+    /*position: absolute;
+    z-index: 3;
+    top: 140%;
+    right: 40%;*/
+}
+
+.jumbo2 {
+    background: url('../images/jumbo2.jpg') no-repeat;
+    height: 550px;
+    text-shadow: 2px 2px black;
+    margin-top: 0 !important;
+}
+
+.jumbo2-btn {
+    text-shadow: none;
+    background: #d6d0d0;
+}
+
+.homejumbo2 {
+    font-family: 'Julius Sans One', sans-serif;
+   /*position: absolute;
+    z-index: 3;
+    top: 260%;*/
+}
+
+
+.jumboabout1 {
+    background: url('../images/about.jpg') no-repeat !important;
+    margin-bottom: 0;
+    /*text-shadow: 2px 2px black;*/
+}
+
+.jumbomakeup{
+    background: url('../images/makeup.jpg') no-repeat !important;
+}
+
+.bbjumbo1{
+    background: url('../images/bathandbody.jpg') no-repeat !important;
+}
+
+.jumbobest1{
+    background: url('../images/bestsellers.jpg') no-repeat !important;
+}
+
+
+.jumbo-collection1{
+    background: url('../images/eco.jpg') no-repeat !important;
+}
+
+.jumbo-collection2{
+    background: url('../images/eco.jpg') no-repeat !important;
+}
+
+
+.jumb-other-pages {
+    height: 550px !important;
+    margin-bottom: 0;
+    text-shadow: 2px 2px black;
+}
+
